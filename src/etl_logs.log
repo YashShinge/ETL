@@ -1,0 +1,5 @@
+INFO: __main__: 2021-01-24 00:45:21,297 - # ETL job is starting
+INFO: __main__: 2021-01-24 00:45:21,297 - # Extracting data
+INFO: __main__: 2021-01-24 00:45:21,747 - # Transforming data
+INFO: __main__: 2021-01-24 00:45:21,811 - # Loading data
+INFO: __main__: 2021-01-24 00:45:21,820 - # ETL job completed.
