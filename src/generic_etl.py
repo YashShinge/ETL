@@ -4,9 +4,9 @@ import pandas as pd
 import numpy as np
 
 logging.basicConfig(filename="etl_logs.log",			
-					level=logging.INFO,
-					format="%(levelname)s: %(name)s: %(asctime)s - %(message)s",
-					filemode='w')
+		    level=logging.INFO,
+		    format="%(levelname)s: %(name)s: %(asctime)s - %(message)s",
+		    filemode='w')
 logger = logging.getLogger(__name__)
 
 
